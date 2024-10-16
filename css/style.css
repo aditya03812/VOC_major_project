@@ -39,8 +39,9 @@ body > div.page.animated > div > div.layout-4-item-left > img{
 body > div.page.animated > a:nth-child(10) > img{
 	height: 35vh;
 }
-
-
+*{
+	scroll-behavior: smooth;
+}
 
 
 
